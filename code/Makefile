@@ -1,4 +1,4 @@
-SUBDIRS = libs tools 
+SUBDIRS = tools 
 
 subdirs:        $(SUBDIRS)
 $(SUBDIRS):
